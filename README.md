@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy unName</h1>
 <h3 align="center">Me encanta programar y diseñar páginas web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpaulogd&label=Profile%20views&color=0e75b6&style=flat" alt="juanpaulogd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unNamexDev&label=Profile%20views&color=0e75b6&style=flat" alt="unNamexDev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanpaulogd" alt="juanpaulogd" /></a> </p>
 
