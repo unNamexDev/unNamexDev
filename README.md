@@ -7,23 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy desarrollando una comunidad [The Chill Friends](https://discord.gg/JdGgAZjJyX)
+- 🌱 Actualmente estoy aprendiendo: **Python, Typescript y C++**
 
-- 🌱 Actualmente estoy aprendiendo **Python, Typescript y C++**
+- 👯 Mi proyecto actual en el que estoy trabajando es: [Abbaa](https://kazutobot.ml/soporte)
 
-- 👯 Mi proyecto actual en el que estoy trabajando es [Miauri](https://miauri-bot.ga/)
-
-- 🤝 Estoy colaborando al desarrollo de una dashboard de un bot en discord [Kazuto](https://kazuto-web.tk/support)
+- 🤝 Soy el desarrollador de una dashboard de un bot en discord [Kazuto](https://kazutobot.ml/soporte)
 
 - 👨‍💻 Puedes encontrar todos mis proyectos y conocer un poco más de mí en [http://unname-web.tk/](http://unname-web.tk/)
 
-- 💬 Conoce un poco sobre mí **No me gusta la pepsi...**
+- 📄 Unte a mi servidor: [http://unname-web.tk/](http://unname-web.tk/)
 
-- 📫 Puedes hablarme por discord **unName#6850**
-
-- 📄 Conoce mis experiencias en el mundo de la programación [http://unname-web.tk/community](http://unname-web.tk/community)
-
-- ⚡ Dato **Amo a los gatos**
+- ⚡ Dato: **Amo a los gatos**
 
 <h3 align="left">Sobre mi:</h3>
 <p align="left">
