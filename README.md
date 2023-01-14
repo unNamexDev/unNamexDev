@@ -7,17 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo: **Python, Typescript y C++**
-
-- 👯 Mi proyecto actual en el que estoy trabajando es: [Abbaa](https://kazutobot.ml/soporte)
-
-- 🤝 Soy el desarrollador de una dashboard de un bot en discord [Kazuto](https://kazutobot.ml/soporte)
-
-- 👨‍💻 Puedes encontrar todos mis proyectos y conocer un poco más de mí en [http://unname-web.tk/](http://unname-web.tk/)
-
-- 📄 Unte a mi servidor: [http://unname-web.tk/](http://unname-web.tk/)
-
-- ⚡ Dato: **Amo a los gatos**
 
 <h3 align="left">Sobre mi:</h3>
 <p align="left">
