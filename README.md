@@ -1,5 +1,5 @@
-<h1 align="center">Hola! 👋, soy unName</h1>
-<h3 align="center">Me encanta programar y diseñar páginas web</h3>
+<h1 align="center">¡Hola! 👋 soy unName</h1>
+<h3 align="center">Me encanta programar bots en Discord y diseñar páginas web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unNamexDev&label=Profile%20views&color=0e75b6&style=flat" alt="unNamexDev" /> </p>
 
