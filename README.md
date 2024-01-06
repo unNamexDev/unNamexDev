@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Hola, soy Whizx! 👋</h1>
+<h1 align="center">¡Hola, soy JustJuan! 👋</h1>
 <p align="center">Programador y Diseñador de Bots en Discord</p>
 
 <!-- Avatar -->
