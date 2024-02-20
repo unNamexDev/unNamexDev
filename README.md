@@ -22,7 +22,7 @@
   <li>Controles de volumen, bucle y mezcla para una experiencia musical personalizada.</li>
 </ul>
 
-<p align="center">¡Si quieres añadir a Kazuto a tu servidor y disfrutar de la música de alta calidad, visita el repositorio de Kazuto <a href="kazuto">aquí</a>!</p>
+<p align="center">¡Si quieres añadir a Kazuto a tu servidor y disfrutar de la música de alta calidad, visita el repositorio de Kazuto <a href="https://github.com/Kazuto-Bot">aquí</a>!</p>
 
 <!-- Tecnologías y Lenguajes -->
 <h2 align="center">Tecnologías y Lenguajes 🚀</h2>
@@ -40,10 +40,9 @@
 <p align="center">Puedes contactarme a través de:</p>
 
 <p align="center">
-  <a href="mailto:whizx@kazutobot.ml">Correo electrónico</a> •
+  <a href="mailto:">Correo electrónico</a> •
   <a href="https://discordapp.com/users/1131702584504225842">Discord</a> •
-  <a href="https://www.linkedin.com/in/tuperfillinkedin/">LinkedIn</a> •
-  <a href="https://kazutobot.ml/">Sitio web personal</a>
+  <a href="https://kazuto.lol/">Sitio web personal</a>
 </p>
 
 <!-- Estadísticas de GitHub -->
@@ -60,4 +59,4 @@
 
 <!-- Pie de página -->
 <p align="center">¡Gracias por visitar mi perfil! Espero que hayas disfrutado explorando mis proyectos. ¡No dudes en ponerte en contacto conmigo si quieres colaborar o tienes alguna idea en mente!</p>
-<p align="center"><em>Este archivo README fue diseñado con ❤️ por Whizx.</em></p>
+<p align="center"><em>Este archivo README fue diseñado con ❤️ por unNameDev.</em></p>
