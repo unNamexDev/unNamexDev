@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="mailto:">Correo electrónico</a> •
-  <a href="https://discordapp.com/users/1131702584504225842">Discord</a> •
+  <a href="https://discordapp.com/users/631510830332248095">Discord</a> •
   <a href="https://kazuto.lol/">Sitio web personal</a>
 </p>
 
