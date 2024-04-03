@@ -4,7 +4,7 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/63973813?v=4" alt="Avatar de Whizx" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/63973813?v=4" alt="Avatar de unNamexDev" width="200" height="200">
 </p>
 
 <!-- Descripción -->
@@ -29,34 +29,23 @@
 <p align="center">Estas son algunas de las tecnologías y lenguajes que utilizo para mis proyectos:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord.py">
+  <img src="https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord.js">
   <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML/CSS">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
 </p>
 
-<!-- Contacto -->
-<h2 align="center">¡Hablemos! 📫</h2>
-<p align="center">Si tienes alguna pregunta, colaboración o simplemente deseas charlar, ¡estaré encantado de hablar contigo!</p>
-<p align="center">Puedes contactarme a través de:</p>
-
-<p align="center">
-  <a href="mailto:">Correo electrónico</a> •
-  <a href="https://discordapp.com/users/631510830332248095">Discord</a> •
-  <a href="https://kazuto.lol/">Sitio web personal</a>
-</p>
 
 <!-- Estadísticas de GitHub -->
 <h2 align="center">Estadísticas de GitHub 📈</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whizx&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=unNamexDev![image](https://github.com/unNamexDev/unNamexDev/assets/63973813/005a74ac-2f34-4847-91a7-2d4518651ccb)
+&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 <!-- Lenguajes más utilizados -->
 <h2 align="center">Lenguajes más utilizados 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whizx&layout=compact&theme=radical" alt="Lenguajes más utilizados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unNamexDev&layout=compact&theme=radical" alt="Lenguajes más utilizados">
 </p>
 
-<!-- Pie de página -->
-<p align="center">¡Gracias por visitar mi perfil! Espero que hayas disfrutado explorando mis proyectos. ¡No dudes en ponerte en contacto conmigo si quieres colaborar o tienes alguna idea en mente!</p>
 <p align="center"><em>Este archivo README fue diseñado con ❤️ por unNameDev.</em></p>
