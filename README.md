@@ -38,9 +38,7 @@
 <!-- Estadísticas de GitHub -->
 <h2 align="center">Estadísticas de GitHub 📈</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unNamexDev![image](https://github.com/unNamexDev/unNamexDev/assets/63973813/005a74ac-2f34-4847-91a7-2d4518651ccb)
-&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=unNamexDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 
 <!-- Lenguajes más utilizados -->
 <h2 align="center">Lenguajes más utilizados 📊</h2>
